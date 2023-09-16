@@ -2,7 +2,8 @@
 
 I'm [Shuang Song (Twist)](https://cv.songshgeo.com/), a PhD researcher in Geography.
 
-[![Shuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongshGeo)](https://github.com/SongshGeo/github-readme-stats)
+| <a href="https://github.com/SongshGeo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SongshGeo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SongshGeo's github stats" /></a> | <a href="https://github.com/SongshGeo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongshGeo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **SongshGeo/SongshGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
