@@ -2,6 +2,8 @@
 
 I'm [Shuang Song (Twist)](https://cv.songshgeo.com/), a PhD researcher in Geography.
 
+You can access more academic information through [🧑‍🔬 my academic CV](https://cv.songshgeo.com) and [✍️ my personal posts (in Chinese)](https://songshgeo.com).
+
 | <a href="https://github.com/SongshGeo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SongshGeo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SongshGeo's github stats" /></a> | <a href="https://github.com/SongshGeo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongshGeo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
