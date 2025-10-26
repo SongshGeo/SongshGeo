@@ -9,9 +9,12 @@ https://github.com/samarjitsahoo/samarjitsahoo/blob/main/README.md?plain=1
   <img src="assets/library.gif"/>
 </p>
 
-I'm [Shuang (Twist) Song](https://cv.songshgeo.com/), a Postdoctoral researcher at Max Planck Institute of Geoanthropology & Beijing Normal University.
+I'm [Shuang Song](https://cv.songshgeo.com/), a Postdoctoral researcher at Max Planck Institute of Geoanthropology. I am leading the **[SongshGeo Lab](https://github.com/SongshGeoLab)** team, focusing on **Social-Ecological Systems** research through computational modeling.
 
-You can access more academic information through [🧑‍🔬 my academic CV](https://cv.songshgeo.com) and [✍️ my personal posts (in Chinese)](https://songshgeo.com).
+[🧑‍🔬 Academic CV](https://cv.songshgeo.com) | [✍️ Travel posts (in Chinese)](https://songshgeo.com) | [📷 Photography](https://pt.songshgeo.com/)
+
+---
+
 <!-- 
 | <a href="https://github.com/SongshGeo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SongshGeo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SongshGeo's github stats" /></a> | <a href="https://github.com/SongshGeo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongshGeo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -71,5 +74,14 @@ Here are some ideas to get you started:
   <a href="https://www.researchgate.net/profile/Shuang-Song-14" target="_blank">
     <img align="center" src="assets/ResearchGate.png" alt="ResearchGate" height="50" width="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SongshGeoLab" target="_blank">
+    <img align="center" src="https://github.com/SongshGeoLab.png" alt="Team" height="50" width="50" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="README_zh.md">中文</a> | <strong>English</strong> | <a href="README_en.md">Read Full Version</a>
+</p>
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
